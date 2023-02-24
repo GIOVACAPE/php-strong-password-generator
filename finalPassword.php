@@ -18,6 +18,7 @@ session_start();
         <div class="alert alert-info mx-auto w-25" role="alert">
         La tua password è: <b><?= $_SESSION['final-password'] ?></b>
         </div>
+        <!-- si potrebbe creare qui il file RESET -->
     </div>
 </body>
 </html>

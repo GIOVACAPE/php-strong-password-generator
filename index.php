@@ -31,7 +31,7 @@ if($password_length){
             <form action="" class="input-group" method="GET">
                 <input type="number" class="form-control" min="1" max="15" name="password-length" placeholder="Quanti caratteri deve essere lunga la password?">
                 <button type="submit" class="btn btn-primary" type="button">Invia</button>
-                <!-- si potrebbe creare un bottone RESET -->
+                <!-- si potrebbe creare un bottone RESET magari nella FINALPASSWORD.php -->
             </form>
         </div>
         
